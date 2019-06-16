@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  switch에넣을수있는변수.cpp
+c:\users\user\source\repos\day02\switch에넣을수있는변수\switch에넣을수있는변수.cpp(11): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  switch에넣을수있는변수.vcxproj -> C:\Users\user\source\repos\day02\Debug\switch에넣을수있는변수.exe
